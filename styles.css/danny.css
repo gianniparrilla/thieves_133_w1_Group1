@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h3 {
+    text-align: center;
+}
+
+.title {
+    color: black;
+}
+
+.work {
+    margin-top: 3vh;
+    margin-left: 86vh;
+    margin-right: 86vh;
+    display:flex;
+
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    margin-top: 10vh;
+    width: 100%;
+    max-width: 725px;
+    min-width: 400px;
+    margin-left: 40vh;
+    color: white;
+    background-color: rgb(33, 33, 230);
+
+}
+
+.info > img {
+    width: 40%;
+}
+
+
+
+
